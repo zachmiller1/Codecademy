@@ -1,1 +1,7 @@
-
+define text
+define pattern
+search text for pattern
+if pattern is found
+ notify user pattern is found
+else
+  notify user pattern is not found
