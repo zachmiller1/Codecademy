@@ -1,3 +1,5 @@
+Step 1: Plan The Algorithm
+
 define text
 define pattern
 search text for pattern
@@ -5,3 +7,4 @@ if pattern is found
  notify user pattern is found
 else
   notify user pattern is not found
+
